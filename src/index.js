@@ -6,7 +6,7 @@ import Floor from './game/floor';
 import Text from './game/gameText';
 import Button from './game/gameButton';
 import P5 from 'p5';
-import Images from './assets/sprite1.png';
+import Images from './assets/sprite2.png';
 import BackgroundImage from './assets/background.png';
 import font from './assets/FlappyBirdy.ttf';
 import Storage from './storage';
